@@ -1,0 +1,193 @@
+[1][2025/03/11 10:36:11][::1][pages][index][Pages]
+[1][2025/03/11 10:36:11][::1][pages][editPage][Edit Pages]
+[1][2025/03/11 10:36:29][::1][pages][index][Pages]
+[1][2025/03/11 10:36:40][::1][testimonials][index][Testimonials]
+[1][2025/03/11 10:36:43][::1][pages][index][Pages]
+[1][2025/03/11 10:50:44][::1][pages][index][Pages]
+[1][2025/03/11 10:51:02][::1][pages][index][Pages]
+[1][2025/03/11 10:51:38][::1][pages][index][Pages]
+[1][2025/03/11 10:51:51][::1][pages][index][Pages]
+[1][2025/03/11 10:51:53][::1][testimonials][index][Testimonials]
+[1][2025/03/11 10:51:55][::1][pages][index][Pages]
+[1][2025/03/11 10:51:55][::1][pages][editPage][Edit Pages]
+[1][2025/03/11 10:52:02][::1][jobs][index][jobs]
+[1][2025/03/11 11:37:15][::1][jobs][index][jobs]
+[1][2025/03/11 11:37:17][::1][jobs][addJob][Add jobs]
+[1][2025/03/11 12:46:53][::1][jobs][addJob][Add jobs]
+[1][2025/03/11 12:46:58][::1][jobs][index][jobs]
+[1][2025/03/11 12:47:01][::1][jobs][editjob6][Edit job]
+[1][2025/03/11 12:47:02][::1][jobs][index][jobs]
+[1][2025/03/11 12:47:50][::1][jobs][editjob6][Edit job]
+[1][2025/03/11 12:48:06][::1][jobs][index][jobs]
+[1][2025/03/11 12:48:59][::1][jobs][index][jobs]
+[1][2025/03/11 12:49:02][::1][jobs][editjob6][Edit job]
+[1][2025/03/11 12:49:10][::1][jobs][editPage6~Crowd Technical Supervisor~Production Technology, Core Services~0][Update Pages]
+[1][2025/03/11 12:49:10][::1][jobs][index][jobs]
+[1][2025/03/11 12:49:12][::1][jobs][index][jobs]
+[1][2025/03/11 12:49:26][::1][jobs][editjob5][Edit job]
+[1][2025/03/11 12:49:33][::1][jobs][editPage5~DFX Supervisor~Creative Supervision~0][Update Pages]
+[1][2025/03/11 12:49:33][::1][jobs][index][jobs]
+[1][2025/03/11 12:50:33][::1][jobs][editjob6][Edit job]
+[1][2025/03/11 12:50:37][::1][jobs][editPage6~Crowd Technical Supervisor~London,UK~Production Technology, Core Services~0][Update Pages]
+[1][2025/03/11 12:50:37][::1][jobs][index][jobs]
+[1][2025/03/11 12:50:45][::1][jobs][editjob5][Edit job]
+[1][2025/03/11 12:50:50][::1][jobs][editPage5~DFX Supervisor~Chennai,India~Creative Supervision~0][Update Pages]
+[1][2025/03/11 12:50:50][::1][jobs][index][jobs]
+[][2025/03/11 12:51:05][::1][jobs][deletePage4][Page not Deleted]
+[1][2025/03/11 12:51:06][::1][jobs][index][jobs]
+[1][2025/03/11 12:52:00][::1][jobs][index][jobs]
+[][2025/03/11 12:52:12][::1][jobs][deletePage4][Page not Deleted]
+[1][2025/03/11 12:52:12][::1][jobs][index][jobs]
+[1][2025/03/11 12:55:39][::1][jobs][index][jobs]
+[][2025/03/11 12:56:20][::1][jobs][deletePage6][Page not Deleted]
+[1][2025/03/11 12:56:20][::1][jobs][index][jobs]
+[][2025/03/11 12:59:06][::1][jobs][deletePage6][Page not Deleted]
+[1][2025/03/11 12:59:06][::1][jobs][index][jobs]
+[1][2025/03/11 12:59:15][::1][jobs][index][jobs]
+[1][2025/03/11 13:03:49][::1][jobs][index][jobs]
+[1][2025/03/11 13:03:59][::1][jobs][index][jobs]
+[1][2025/03/11 13:04:10][::1][jobs][index][jobs]
+[1][2025/03/11 13:04:52][::1][sliders][index][Sliders]
+[1][2025/03/11 13:04:58][::1][sliders][deleteSlider5][Delete SLider]
+[1][2025/03/11 13:04:58][::1][sliders][index][Sliders]
+[1][2025/03/11 13:05:04][::1][sliders][editSlider5][Edit Slider]
+[1][2025/03/11 13:05:11][::1][sliders][updateSliderhome_img4_3395138149.jpg~DEXTER Animation at Annecy 2023!~At this DEXTER Animation at Annecy 2023! Sony will be conducting a demonstration of the ELF-SR2. In addition to the variety of supported applications, our new DCC tool plugin application, specifically designed for Maya, will be shown as part of this ~2023-05-19~0~5~home_img4_3395138149.jpg][Slider Updated]
+[1][2025/03/11 13:05:11][::1][sliders][index][Sliders]
+[1][2025/03/11 13:06:52][::1][sliders][index][Sliders]
+[1][2025/03/11 13:07:09][::1][sliders][deleteSlider2][Delete SLider]
+[1][2025/03/11 13:07:10][::1][sliders][index][Sliders]
+[1][2025/03/11 13:07:51][::1][sliders][index][Sliders]
+[1][2025/03/11 13:07:58][::1][sliders][index][Sliders]
+[1][2025/03/11 13:53:47][::1][sliders][index][Sliders]
+[1][2025/03/11 13:53:51][::1][jobs][index][jobs]
+[1][2025/03/11 13:53:59][::1][jobs][index][jobs]
+[1][2025/03/11 13:56:19][::1][jobs][index][jobs]
+[1][2025/03/11 13:56:25][::1][jobs][index][jobs]
+[][2025/03/11 13:56:35][::1][jobs][deletePage6][Page not Deleted]
+[1][2025/03/11 13:56:35][::1][jobs][index][jobs]
+[1][2025/03/11 14:01:02][::1][jobs][index][jobs]
+[][2025/03/11 14:01:11][::1][jobs][deletePage6][Page not Deleted]
+[1][2025/03/11 14:01:12][::1][jobs][index][jobs]
+[1][2025/03/11 14:01:25][::1][jobs][index][jobs]
+[1][2025/03/11 15:58:00][::1][jobs][index][jobs]
+[1][2025/03/11 16:01:13][::1][testimonials][index][Testimonials]
+[1][2025/03/11 16:18:05][::1][testimonials][editTestimonial1][Edit Testimonial]
+[1][2025/03/11 16:19:20][::1][testimonials][updateTestimonialDetailsbackground~slider-video.mp4.mp4~https://www.youtube.com/watch?v=TZE9gVF1QbA~0~1~slider-video.mp4.mp4][Testimonial Updated]
+[1][2025/03/11 16:19:20][::1][testimonials][index][Testimonials]
+[1][2025/03/11 16:19:47][::1][testimonials][index][Testimonials]
+[1][2025/03/11 16:50:56][::1][testimonials][index][Testimonials]
+[1][2025/03/11 16:51:21][::1][pages][index][Pages]
+[1][2025/03/11 16:51:21][::1][pages][editPage][Edit Pages]
+[1][2025/03/11 16:51:22][::1][testimonials][index][Testimonials]
+[1][2025/03/11 16:51:32][::1][pages][index][Pages]
+[1][2025/03/11 16:51:35][::1][pages][index][Pages]
+[1][2025/03/11 16:51:41][::1][pages][deletePage2][Delete Pages]
+[1][2025/03/11 16:51:41][::1][pages][index][Pages]
+[1][2025/03/11 16:53:45][::1][pages][index][Pages]
+[1][2025/03/11 16:53:51][::1][pages][index][Pages]
+[1][2025/03/11 16:53:57][::1][pages][deletePage4][Delete Pages]
+[1][2025/03/11 16:53:57][::1][pages][index][Pages]
+[1][2025/03/11 16:54:21][::1][sliders][index][Sliders]
+[1][2025/03/11 16:54:30][::1][pages][index][Pages]
+[1][2025/03/11 16:54:32][::1][jobs][index][jobs]
+[][2025/03/11 16:54:37][::1][jobs][deletePage4][Page not Deleted]
+[1][2025/03/11 16:54:37][::1][jobs][index][jobs]
+[1][2025/03/11 16:55:30][::1][jobs][index][jobs]
+[][2025/03/11 16:55:33][::1][jobs][deletePage4][Page not Deleted]
+[1][2025/03/11 16:55:33][::1][jobs][index][jobs]
+[1][2025/03/11 17:00:42][::1][jobs][index][jobs]
+[1][2025/03/11 17:01:10][::1][jobs][index][jobs]
+[1][2025/03/11 17:03:22][::1][jobs][index][jobs]
+[1][2025/03/11 17:03:38][::1][jobs][index][jobs]
+[1][2025/03/11 17:03:47][::1][jobs][editjob5][Edit job]
+[1][2025/03/11 17:03:50][::1][jobs][index][jobs]
+[1][2025/03/11 17:03:52][::1][jobs][editjob3][Edit job]
+[1][2025/03/11 17:03:54][::1][jobs][index][jobs]
+[1][2025/03/11 17:03:58][::1][jobs][deletePage3][Delete Pages]
+[1][2025/03/11 17:03:58][::1][jobs][index][jobs]
+[1][2025/03/11 17:07:04][::1][pages][index][Pages]
+[1][2025/03/11 17:07:07][::1][pages][editPage7][Edit Pages]
+[1][2025/03/11 17:07:20][::1][pages][editPage7~Job Details~            <h4>Description</h4>
+
+            <p>Whilst we do not have any open positions right now, we would still love to hear from you! 
+
+We will keep your details on our database and contact you when a suitable position becomes available.
+
+</p>
+
+<p>Build TDs at Dexter n Bruno are generalists whose role includes modelling, texturing, groom and look development to create a range of digital assets to an impeccable standard. You will find technical and creative solutions to develop the assets according to the needs of the production and the specifications of the DFX/VFX Supervisor.</p>
+
+
+
+            <h5 class="mt-30">Must Have</h5>
+
+
+
+            <ul>
+
+                <li>Significant experience in high-end feature film VFX</li>
+
+                <li>A Broad range of build discipline knowledge with experience in modelling, texturing and look development</li>
+
+                <li>A Showreel demonstrating experience of hard surface, organic, and creature assets</li>
+
+                <li>Experience using 3D software – ideally Maya, Mari, ZBrush, Substance & Houdini</li>
+
+                <li>A critical eye for detail and strong visual abilities such as accurate perception of anatomy, form, scale and proportions</li>
+
+                <li>Experience with rendering</li>
+
+                <li>Experience meeting deadlines while retaining a high quality of work</li>
+
+            </ul>
+
+
+
+
+
+            <h5 class="mt-30">Nice to Have</h5>
+
+
+
+            <ul>
+
+                <li>Experience with Real Time rendering software, preferably Unreal Engine</li>
+
+                <li>Experience of creating Groom in Houdini</li>
+
+            </ul>
+
+
+
+            <h5 class="mt-30">About You </h5>
+
+
+
+            <ul>
+
+                <li>Organised, proactive and a self-starter</li>
+
+                <li>A team player and clear communicator, and a keenness for collaboration</li>
+
+                <li>Approachable and personable, with strong motivational qualities</li>
+
+                <li>Adaptable and with a willingness to learn new skills and techniques – including proprietary software</li>
+
+                <li>Calm under pressure and committed to meet production deadlines </li>
+
+                <li>A positive, can-do attitude</li>
+
+            </ul>
+
+
+
+            <h5 class="mt-30">About Us</h5>
+
+
+
+            <p>We are Dexter n Bruno, one of the world’s leading visual effects and animation companies for the creation of award-winning feature film, television, and multiplatform content. We employ more than 10,000 people with worldwide offices and studios across North America (Los Angeles, Montréal, Toronto, Vancouver), Europe (London), Asia (Bangalore, Mohali, Chennai, Mumbai) and Australia (Sydneyssss).</p>~about_img_3668306971.jpg~job-details~
+        <h2>Expression of Interest - Build TD</h2>
+
+        <h5>Location : Sydney, Australia</h5>~0~about_img_3668306971.jpg][Update Pages]
+[1][2025/03/11 17:07:20][::1][pages][index][Pages]
+[1][2025/03/11 17:40:28][::1][pages][index][Pages]

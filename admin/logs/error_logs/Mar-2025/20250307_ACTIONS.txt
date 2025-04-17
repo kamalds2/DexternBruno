@@ -1,0 +1,513 @@
+[1][2025/03/07 10:17:50][::1][login][loginSubmitadmin@siriinnovations.com~ddmin1@one~][Login]
+[1][2025/03/07 10:17:59][::1][sliders][index][Sliders]
+[1][2025/03/07 10:34:50][::1][pages][index][Pages]
+[1][2025/03/07 10:34:51][::1][pages][index][Pages]
+[1][2025/03/07 10:34:57][::1][pages][addPage][Add Pages]
+[1][2025/03/07 10:35:52][::1][pages][createPageAbout ~
+        <h4>Welcome to Dexter &amp; Bruno ! We are a dynamic and innovative visual effects (VFX) company dedicated to bringing imagination to life on the big screen, small screen, and beyond. With a passion for creativity and a commitment to excellence, we specialize in delivering cutting edge VFX solutions for a wide range of industries, including film, television, advertising, and more.</h4>
+
+
+~about~~0~about_img_922582993.jpg][Add Pages]
+[1][2025/03/07 10:35:52][::1][pages][index][Pages]
+[1][2025/03/07 10:36:24][::1][pages][addPage][Add Pages]
+[1][2025/03/07 10:37:47][::1][pages][createPageCareer~<h2>Power-up your career</h2>
+
+<p>Strive to be your best. Unlock your potential. Join Dexter n Bruno global award-winning team.</p>
+
+<p><span style="text-decoration: underline;"><a href="<?php echo SITEURL.'jobs/';?>">View all our open positions</a></span></p>~career~
+<p>Welcome to Dexter n Bruno Careers! Whether you are planning your next career move or you are simply curious to know more about our global studio, you came to the right place!</p>
+<br>
+<p>We are always on the lookout for talent to join our crew so keep on reading to find out how you can join Dexter n Bruno.</p>
+~0~careers_img_3044707592.jpg][Add Pages]
+[1][2025/03/07 10:37:47][::1][pages][index][Pages]
+[1][2025/03/07 10:38:03][::1][pages][editPage9][Edit Pages]
+[1][2025/03/07 10:38:07][::1][pages][index][Pages]
+[1][2025/03/07 10:43:44][::1][pages][index][Pages]
+[1][2025/03/07 10:43:45][::1][sliders][index][Sliders]
+[1][2025/03/07 10:43:47][::1][jobs][index][jobs]
+[1][2025/03/07 10:49:16][::1][pages][index][Pages]
+[1][2025/03/07 10:49:22][::1][pages][editPage3][Edit Pages]
+[1][2025/03/07 10:49:28][::1][pages][editPage3~Cookies and Tracking Technologies~<h2>Data Security</h2>
+
+<p>We implement appropriate security measures to protect your personal information from
+
+unauthorized access, alteration, disclosure, or destruction.</p>
+
+<br>
+
+
+
+<h2>Third-Party Links</h2>
+
+<p>Our website may contain links to
+
+third party websites. Please note that we are not responsible for the
+
+privacy practices or content of those websites. We encourage you to review their privacy policies before
+
+providing any personal information.</p>
+
+
+
+<br>
+
+<h2>Your Rights</h2>
+
+<p>You have the right to access, up
+
+date, or delete your personal information. If you wish to exercise these
+
+rights or have any questions about our privacy practices, please contact us using the information
+
+provided below.</p>
+
+<br>
+
+
+
+<h2>Changes to This Notice</h2>
+
+<p>We may update this Privacy and Cookies Notice
+
+from time to time to reflect changes in our practices or
+
+legal requirements. The updated notice will be posted on our website, and the date of the latest revision
+
+will be indicated.</p>
+
+
+
+
+
+
+
+
+
+~technologies_img_3797578545.jpg~cookies-and-tracking-technologies~ <h2>Cookies</h2>
+
+        <h4>We use cookies, which are small text files st ored on your device, to enhance your browsing
+
+experience and gather usage information. You can manage your cookie preferences through your
+
+browser settings.</h4>
+
+
+
+
+
+
+
+
+
+
+
+         <h2>Analytics</h2>
+
+        <h4>We may use third party analytics services to track and analyze usage data, which helps u s
+
+improve our website and services.</h4>~0~technologies_img_3797578545.jpg][Update Pages]
+[1][2025/03/07 10:49:28][::1][pages][index][Pages]
+[1][2025/03/07 10:50:54][::1][pages][editPage3][Edit Pages]
+[1][2025/03/07 10:51:19][::1][pages][editPage3~Cookies and Tracking Technologies~<h2>Data Security</h2>
+
+<p>We implement appropriate security measures to protect your personal information from
+
+unauthorized access, alteration, disclosure, or destruction.</p>
+
+<br>
+
+
+
+<h2>Third-Party Links</h2>
+
+<p>Our website may contain links to
+
+third party websites. Please note that we are not responsible for the
+
+privacy practices or content of those websites. We encourage you to review their privacy policies before
+
+providing any personal information.</p>
+
+
+
+<br>
+
+<h2>Your Rights</h2>
+
+<p>You have the right to access, up
+
+date, or delete your personal information. If you wish to exercise these
+
+rights or have any questions about our privacy practices, please contact us using the information
+
+provided below.</p>
+
+<br>
+
+
+
+<h2>Changes to This Notice</h2>
+
+<p>We may update this Privacy and Cookies Notice
+
+from time to time to reflect changes in our practices or
+
+legal requirements. The updated notice will be posted on our website, and the date of the latest revision
+
+will be indicated.</p>
+
+
+
+
+
+
+
+
+
+~technologies_img_3797578545.jpg~cookies-and-tracking-technologies~<h2>Cookies</h2>
+
+        <h4>We use cookies, which are small text files st ored on your device, to enhance your browsing
+
+experience and gather usage information. You can manage your cookie preferences through your
+
+browser settings.</h4>
+
+
+
+
+
+
+
+
+
+
+
+         <h2>Analytics</h2>
+
+        <h4>We may use third party analytics services to track and analyze usage data, which helps u s
+
+improve our website and services.</h4>
+~0~technologies_img_3797578545.jpg][Update Pages]
+[1][2025/03/07 10:51:19][::1][pages][index][Pages]
+[1][2025/03/07 10:51:44][::1][pages][index][Pages]
+[1][2025/03/07 10:53:37][::1][pages][editPage3][Edit Pages]
+[1][2025/03/07 10:53:57][::1][pages][index][Pages]
+[1][2025/03/07 10:53:59][::1][pages][editPage9][Edit Pages]
+[1][2025/03/07 10:54:03][::1][pages][index][Pages]
+[1][2025/03/07 10:54:11][::1][pages][editPage1][Edit Pages]
+[1][2025/03/07 10:54:17][::1][pages][index][Pages]
+[1][2025/03/07 10:54:21][::1][pages][editPage3][Edit Pages]
+[1][2025/03/07 10:55:27][::1][pages][editPage3~Cookies and Tracking Technologies~<h2>Data Security</h2>
+
+<p>We implement appropriate security measures to protect your personal information from
+
+unauthorized access, alteration, disclosure, or destruction.</p>
+
+<br>
+
+
+
+<h2>Third-Party Links</h2>
+
+<p>Our website may contain links to
+
+third party websites. Please note that we are not responsible for the
+
+privacy practices or content of those websites. We encourage you to review their privacy policies before
+
+providing any personal information.</p>
+
+
+
+<br>
+
+<h2>Your Rights</h2>
+
+<p>You have the right to access, up
+
+date, or delete your personal information. If you wish to exercise these
+
+rights or have any questions about our privacy practices, please contact us using the information
+
+provided below.</p>
+
+<br>
+
+
+
+<h2>Changes to This Notice</h2>
+
+<p>We may update this Privacy and Cookies Notice
+
+from time to time to reflect changes in our practices or
+
+legal requirements. The updated notice will be posted on our website, and the date of the latest revision
+
+will be indicated.</p>
+
+
+
+
+
+
+
+
+
+~technologies_img_3797578545.jpg~cookies-and-tracking-technologies~<h2>Cookies</h2>
+
+        <h4>We use cookies, which are small text files st ored on your device, to enhance your browsing
+
+experience and gather usage information. You can manage your cookie preferences through your
+
+browser settings.</h4>
+
+
+
+         <h2>Analytics</h2>
+
+        <h4>We may use third party analytics services to track and analyze usage data, which helps u s
+
+improve our website and services.</h4>
+~0~technologies_img_3797578545.jpg][Update Pages]
+[1][2025/03/07 10:55:28][::1][pages][index][Pages]
+[1][2025/03/07 10:55:33][::1][pages][editPage3][Edit Pages]
+[1][2025/03/07 10:58:06][::1][pages][editPage3~Cookies and Tracking Technologies~<h2>Data Security</h2>
+
+<p>We implement appropriate security measures to protect your personal information from
+
+unauthorized access, alteration, disclosure, or destruction.</p>
+
+<br>
+
+
+
+<h2>Third-Party Links</h2>
+
+<p>Our website may contain links to
+
+third party websites. Please note that we are not responsible for the
+
+privacy practices or content of those websites. We encourage you to review their privacy policies before
+
+providing any personal information.</p>
+
+
+
+<br>
+
+<h2>Your Rights</h2>
+
+<p>You have the right to access, up
+
+date, or delete your personal information. If you wish to exercise these
+
+rights or have any questions about our privacy practices, please contact us using the information
+
+provided below.</p>
+
+<br>
+
+
+
+<h2>Changes to This Notice</h2>
+
+<p>We may update this Privacy and Cookies Notice
+
+from time to time to reflect changes in our practices or
+
+legal requirements. The updated notice will be posted on our website, and the date of the latest revision
+
+will be indicated.</p>
+
+
+
+
+
+
+
+
+
+~technologies_img_3797578545.jpg~cookies-and-tracking-technologies~<h2>Cookies</h2>
+
+        <h4>We use cookies, which are small text files stored on your device, to enhance your browsing
+
+experience and gather usage information. You can manage your cookie preferences through your
+
+browser settings.</h4>
+
+
+         <h2>Analytics</h2>
+
+        <h4>We may use third party analytics services to track and analyze usage data, which helps u s
+
+improve our website and services.</h4>
+
+
+
+
+~0~technologies_img_3797578545.jpg][Update Pages]
+[1][2025/03/07 10:58:06][::1][pages][index][Pages]
+[1][2025/03/07 10:58:10][::1][pages][editPage3][Edit Pages]
+[1][2025/03/07 10:59:06][::1][pages][editPage3~Cookies and Tracking Technologies~<h2>Data Security</h2>
+
+<p>We implement appropriate security measures to protect your personal information from
+
+unauthorized access, alteration, disclosure, or destruction.</p>
+
+<br>
+
+
+
+<h2>Third-Party Links</h2>
+
+<p>Our website may contain links to
+
+third party websites. Please note that we are not responsible for the
+
+privacy practices or content of those websites. We encourage you to review their privacy policies before
+
+providing any personal information.</p>
+
+
+
+<br>
+
+<h2>Your Rights</h2>
+
+<p>You have the right to access, up
+
+date, or delete your personal information. If you wish to exercise these
+
+rights or have any questions about our privacy practices, please contact us using the information
+
+provided below.</p>
+
+<br>
+
+
+
+<h2>Changes to This Notice</h2>
+
+<p>We may update this Privacy and Cookies Notice
+
+from time to time to reflect changes in our practices or
+
+legal requirements. The updated notice will be posted on our website, and the date of the latest revision
+
+will be indicated.</p>
+
+
+
+
+
+
+
+
+
+~technologies_img_3797578545.jpg~cookies-and-tracking-technologies~<h2>Cookies</h2>
+        <h4>We use cookies, which are small text files stored on your device, to enhance your browsing
+experience and gather usage information. You can manage your cookie preferences through your
+
+browser settings.</h4>
+         <h2>Analytics</h2>
+        <h4>We may use third party analytics services to track and analyze usage data, which helps u s
+improve our website and services.</h4>~0~technologies_img_3797578545.jpg][Update Pages]
+[1][2025/03/07 10:59:07][::1][pages][index][Pages]
+[1][2025/03/07 11:44:02][::1][pages][index][Pages]
+[1][2025/03/07 11:44:18][::1][pages][index][Pages]
+[1][2025/03/07 11:44:18][::1][pages][index][Pages]
+[1][2025/03/07 16:48:08][::1][pages][index][Pages]
+[1][2025/03/07 16:59:23][::1][sliders][index][Sliders]
+[1][2025/03/07 16:59:25][::1][pages][index][Pages]
+[1][2025/03/07 16:59:25][::1][pages][index][Pages]
+[1][2025/03/07 16:59:27][::1][jobs][index][jobs]
+[1][2025/03/07 16:59:30][::1][testimonials][index][Testimonials]
+[1][2025/03/07 17:32:40][::1][pages][index][Pages]
+[1][2025/03/07 17:32:49][::1][jobs][index][jobs]
+[1][2025/03/07 17:32:51][::1][jobs][index][jobs]
+[1][2025/03/07 17:32:54][::1][pages][index][Pages]
+[1][2025/03/07 17:32:55][::1][jobs][index][jobs]
+[1][2025/03/07 17:33:35][::1][pages][index][Pages]
+[1][2025/03/07 17:33:39][::1][pages][editPage5][Edit Pages]
+[1][2025/03/07 17:33:42][::1][pages][index][Pages]
+[1][2025/03/07 17:33:51][::1][pages][editPage7][Edit Pages]
+[1][2025/03/07 17:34:16][::1][pages][editPage7~Job Details~            <h4>Description</h4>
+
+            <p>Whilst we do not have any open positions right now, we would still love to hear from you! 
+
+We will keep your details on our database and contact you when a suitable position becomes available.
+
+</p>
+
+<p>Build TDs at Dexter n Bruno are generalists whose role includes modelling, texturing, groom and look development to create a range of digital assets to an impeccable standard. You will find technical and creative solutions to develop the assets according to the needs of the production and the specifications of the DFX/VFX Supervisor.</p>
+
+
+
+            <h5 class="mt-30">Must Have</h5>
+
+
+
+            <ul>
+
+                <li>Significant experience in high-end feature film VFX</li>
+
+                <li>A Broad range of build discipline knowledge with experience in modelling, texturing and look development</li>
+
+                <li>A Showreel demonstrating experience of hard surface, organic, and creature assets</li>
+
+                <li>Experience using 3D software – ideally Maya, Mari, ZBrush, Substance & Houdini</li>
+
+                <li>A critical eye for detail and strong visual abilities such as accurate perception of anatomy, form, scale and proportions</li>
+
+                <li>Experience with rendering</li>
+
+                <li>Experience meeting deadlines while retaining a high quality of work</li>
+
+            </ul>
+
+
+
+
+
+            <h5 class="mt-30">Nice to Have</h5>
+
+
+
+            <ul>
+
+                <li>Experience with Real Time rendering software, preferably Unreal Engine</li>
+
+                <li>Experience of creating Groom in Houdini</li>
+
+            </ul>
+
+
+
+            <h5 class="mt-30">About You </h5>
+
+
+
+            <ul>
+
+                <li>Organised, proactive and a self-starter</li>
+
+                <li>A team player and clear communicator, and a keenness for collaboration</li>
+
+                <li>Approachable and personable, with strong motivational qualities</li>
+
+                <li>Adaptable and with a willingness to learn new skills and techniques – including proprietary software</li>
+
+                <li>Calm under pressure and committed to meet production deadlines </li>
+
+                <li>A positive, can-do attitude</li>
+
+            </ul>
+
+
+
+            <h5 class="mt-30">About Us</h5>
+
+
+
+            <p>We are Dexter n Bruno, one of the world’s leading visual effects and animation companies for the creation of award-winning feature film, television, and multiplatform content. We employ more than 10,000 people with worldwide offices and studios across North America (Los Angeles, Montréal, Toronto, Vancouver), Europe (London), Asia (Bangalore, Mohali, Chennai, Mumbai) and Australia (Sydneyssss).</p>~opening_jobs_8588927803.jpg~job-details~~0~about_img_3668306971.jpg][Update Pages]
+[1][2025/03/07 17:34:16][::1][pages][index][Pages]

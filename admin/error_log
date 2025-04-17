@@ -1,0 +1,22 @@
+[10-Apr-2024 16:02:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected identifier "config" in /home3/pickdata/public_html/travel_bunny/admin/libs/config.php on line 17
+[10-Apr-2024 16:03:40 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/pickdata/public_html/travel_bunny/admin/libs/helpers/Session.php on line 23
+[10-Apr-2024 16:03:40 Asia/Kolkata] PHP Deprecated:  Creation of dynamic property myView_model::$session is deprecated in /home3/pickdata/public_html/travel_bunny/admin/core/Model.php on line 22
+[10-Apr-2024 16:03:40 Asia/Kolkata] PHP Deprecated:  Creation of dynamic property index::$myView is deprecated in /home3/pickdata/public_html/travel_bunny/admin/core/Controller.php on line 136
+[10-Apr-2024 16:03:40 Asia/Kolkata] PHP Deprecated:  Creation of dynamic property index_model::$session is deprecated in /home3/pickdata/public_html/travel_bunny/admin/core/Model.php on line 22
+[10-Apr-2024 16:03:40 Asia/Kolkata] PHP Deprecated:  Creation of dynamic property index::$model is deprecated in /home3/pickdata/public_html/travel_bunny/admin/core/Controller.php on line 63
+[10-Apr-2024 16:03:40 Asia/Kolkata] PHP Deprecated:  Creation of dynamic property myView_model::$session is deprecated in /home3/pickdata/public_html/travel_bunny/admin/core/Model.php on line 22
+[10-Apr-2024 16:03:40 Asia/Kolkata] PHP Deprecated:  Creation of dynamic property View::$myView is deprecated in /home3/pickdata/public_html/travel_bunny/admin/core/Controller.php on line 136
+[10-Apr-2024 16:03:50 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pickdata/public_html/travel_bunny/admin/libs/config.php:1) in /home3/pickdata/public_html/travel_bunny/admin/core/Wrapper.php on line 133
+[10-Apr-2024 16:03:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "assets" not found in /home3/pickdata/public_html/travel_bunny/admin/core/Wrapper.php:106
+Stack trace:
+#0 /home3/pickdata/public_html/travel_bunny/admin/core/Wrapper.php(139): Wrapper->__construct()
+#1 /home3/pickdata/public_html/travel_bunny/admin/index.php(15): require_once('/home3/pickdata...')
+#2 {main}
+  thrown in /home3/pickdata/public_html/travel_bunny/admin/core/Wrapper.php on line 106
+[10-Apr-2024 16:03:50 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pickdata/public_html/travel_bunny/admin/libs/config.php:1) in /home3/pickdata/public_html/travel_bunny/admin/core/Wrapper.php on line 133
+[10-Apr-2024 16:03:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "assets" not found in /home3/pickdata/public_html/travel_bunny/admin/core/Wrapper.php:106
+Stack trace:
+#0 /home3/pickdata/public_html/travel_bunny/admin/core/Wrapper.php(139): Wrapper->__construct()
+#1 /home3/pickdata/public_html/travel_bunny/admin/index.php(15): require_once('/home3/pickdata...')
+#2 {main}
+  thrown in /home3/pickdata/public_html/travel_bunny/admin/core/Wrapper.php on line 106

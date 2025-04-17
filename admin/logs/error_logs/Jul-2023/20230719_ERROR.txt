@@ -1,0 +1,8 @@
+[0][2023/07/19 15:53:37][106.195.72.86][login][loginSubmitrakesh.m@siriinnovations.com~3092067~][Login]
+[][2023/07/19 15:53:59][106.195.72.86][forgetPassword][forgetPassword_rakesh.m@siriinnovations.com][Users-Forgot password]
+[0][2023/07/19 15:56:50][106.195.72.86][login][loginSubmitrakesh.m@sirinnovations.com~27146404~1~][Login]
+[1][2023/07/19 16:03:02][106.195.72.86][Users][updateUserPassword_123456~123456~16~1][Users-update password]
+[0][2023/07/19 17:31:20][122.161.121.76][login][loginSubmitrakesh.m@siriinnovations.com~30920267~][Login]
+[1][2023/07/19 18:31:21][103.125.161.219][users][deleteUser16][User not deleted]
+[1][2023/07/19 18:31:36][103.125.161.219][users][deleteUser16][User not deleted]
+[1][2023/07/19 18:32:31][103.125.161.219][Users][updateUserPassword_123456~123456~3~1][Users-update password]

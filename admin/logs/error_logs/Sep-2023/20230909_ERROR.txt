@@ -1,0 +1,4 @@
+[0][2023/09/09 12:01:46][::1][login][loginSubmitrakesh.m@siriinnovations.com~123456~][Login]
+[1][2023/09/09 16:56:24][::1][Users][updateUserPassword_654321~654321~6~2~1][Users-update password]
+[0][2023/09/09 17:10:12][::1][login][loginSubmitrakesh.m@siriinnovations.com~123456~][Login]
+[1][2023/09/09 17:13:39][::1][users][addUserDetailschittlu~Machineni~chitti@gmail.com~123456~2~0][User not created]

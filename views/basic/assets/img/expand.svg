@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="63px" viewBox="0 0 48 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>btn copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Careers-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Careers" transform="translate(-1624.000000, -2140.000000)">
+            <g id="build" transform="translate(0.000000, 2083.000000)">
+                <g id="btn-copy" transform="translate(1624.000000, 58.000000)">
+                    <polygon id="Fill-1" fill="#E6523F" points="14.2990972 13 14.2990972 27.301875 0 27.301875 0 32.7946875 14.2990972 32.7946875 14.2990972 48 20.6273188 48 20.6273188 32.7946875 35 32.7946875 35 27.301875 20.6273188 27.301875 20.6273188 13"></polygon>
+                    <path d="M17,0 C33.5685714,0 47,13.6552857 47,30.5 C47,47.3447143 33.5685714,61 17,61" id="Stroke-2" stroke="#E6523F" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

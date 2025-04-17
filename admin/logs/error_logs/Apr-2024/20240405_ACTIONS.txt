@@ -1,0 +1,8 @@
+[1][2024/04/05 14:14:42][::1][login][loginSubmitadmin@siriinnovations.com~Admin1@one~][Login]
+[1][2024/04/05 14:14:48][::1][sliders][index][Sliders]
+[1][2024/04/05 14:14:51][::1][sliders][editSlider3][Edit Slider]
+[1][2024/04/05 14:56:26][::1][menus][index][Menus]
+[1][2024/04/05 14:56:33][::1][menus][ajaxSaveMenu[{"label":"Home","id":1},{"label":"Why To Choose","id":4},{"label":"What We Do","id":2},{"label":"Tour Listings","id":3}]][Menu Updted Successfully]
+[1][2024/04/05 14:56:50][::1][menus][ajaxSaveMenu[{"label":"Home","id":1},{"label":"What We Do","id":2},{"label":"Why To Choose","id":4},{"label":"Tour Listings","id":3}]][Menu Updted Successfully]
+[1][2024/04/05 16:17:58][::1][menus][index][Menus]
+[1][2024/04/05 16:18:05][::1][menus][index][Menus]

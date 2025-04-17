@@ -1,0 +1,746 @@
+[10-Apr-2024 16:04:48 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[10-Apr-2024 16:05:03 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[10-Apr-2024 16:07:23 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[10-Apr-2024 21:03:00 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[10-Apr-2024 21:03:03 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[10-Apr-2024 21:03:07 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[10-Apr-2024 21:03:12 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[10-Apr-2024 21:04:25 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[10-Apr-2024 21:05:24 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[11-Apr-2024 21:57:28 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[11-Apr-2024 22:00:12 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[11-Apr-2024 22:04:27 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[12-Apr-2024 08:01:35 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[12-Apr-2024 08:38:44 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[12-Apr-2024 08:43:52 Asia/Kolkata] Slim Application Error
+Type: PDOException
+Code: 42S02
+Message: SQLSTATE[42S02]: Base table or view not found: 1146 Table &#039;pickdata_travel_bunny.tbl_settings&#039; doesn&#039;t exist
+File: /home3/pickdata/public_html/travel_bunny/restful/src/Domain/TravelBunny/TravelBunnyRepository.php
+Line: 438
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/src/Domain/TravelBunny/TravelBunnyRepository.php(438): PDOStatement->execute()
+#1 /home3/pickdata/public_html/travel_bunny/restful/src/Domain/TravelBunny/TravelBunny.php(94): App\Domain\TravelBunny\TravelBunnyRepository->getSettingsData(Array)
+#2 /home3/pickdata/public_html/travel_bunny/restful/src/Action/TravelBunny/GetSettingsData.php(23): App\Domain\TravelBunny\TravelBunny->getSettingsData(Array)
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(43): App\Action\TravelBunny\GetSettingsData->__invoke(Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/Route.php(381): Slim\Handlers\Strategies\RequestResponse->__invoke(Array, Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Slim\Routing\Route->handle(Object(Slim\Psr7\Request))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/Route.php(341): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/RouteRunner.php(84): Slim\Routing\Route->run(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/BodyParsingMiddleware.php(66): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#10 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\BodyParsingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#11 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(60): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#12 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#13 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#14 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#15 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#16 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#17 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#18 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#19 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#20 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#21 {main}
+[12-Apr-2024 10:48:07 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[12-Apr-2024 12:18:41 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[12-Apr-2024 15:04:54 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[12-Apr-2024 15:45:21 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[12-Apr-2024 15:49:19 Asia/Kolkata] Slim Application Error
+Type: PDOException
+Code: 42S22
+Message: SQLSTATE[42S22]: Column not found: 1054 Unknown column &#039;meta_title&#039; in &#039;field list&#039;
+File: /home3/pickdata/public_html/travel_bunny/restful/src/Domain/Pages/PagesRepository.php
+Line: 139
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/src/Domain/Pages/PagesRepository.php(139): PDOStatement->execute()
+#1 /home3/pickdata/public_html/travel_bunny/restful/src/Domain/Pages/Pages.php(42): App\Domain\Pages\PagesRepository->updatePage(Array)
+#2 /home3/pickdata/public_html/travel_bunny/restful/src/Action/Pages/UpdatePage.php(24): App\Domain\Pages\Pages->updatePage(Array)
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(43): App\Action\Pages\UpdatePage->__invoke(Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/Route.php(381): Slim\Handlers\Strategies\RequestResponse->__invoke(Array, Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Slim\Routing\Route->handle(Object(Slim\Psr7\Request))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/Route.php(341): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/RouteRunner.php(84): Slim\Routing\Route->run(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/BodyParsingMiddleware.php(66): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#10 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\BodyParsingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#11 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(60): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#12 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#13 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#14 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#15 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#16 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#17 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#18 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#19 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#20 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#21 {main}
+[12-Apr-2024 15:50:54 Asia/Kolkata] Slim Application Error
+Type: PDOException
+Code: 42S22
+Message: SQLSTATE[42S22]: Column not found: 1054 Unknown column &#039;meta_title&#039; in &#039;field list&#039;
+File: /home3/pickdata/public_html/travel_bunny/restful/src/Domain/Pages/PagesRepository.php
+Line: 139
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/src/Domain/Pages/PagesRepository.php(139): PDOStatement->execute()
+#1 /home3/pickdata/public_html/travel_bunny/restful/src/Domain/Pages/Pages.php(42): App\Domain\Pages\PagesRepository->updatePage(Array)
+#2 /home3/pickdata/public_html/travel_bunny/restful/src/Action/Pages/UpdatePage.php(24): App\Domain\Pages\Pages->updatePage(Array)
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(43): App\Action\Pages\UpdatePage->__invoke(Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/Route.php(381): Slim\Handlers\Strategies\RequestResponse->__invoke(Array, Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Slim\Routing\Route->handle(Object(Slim\Psr7\Request))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/Route.php(341): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/RouteRunner.php(84): Slim\Routing\Route->run(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/BodyParsingMiddleware.php(66): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#10 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\BodyParsingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#11 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(60): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#12 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#13 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#14 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#15 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#16 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#17 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#18 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#19 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#20 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#21 {main}
+[12-Apr-2024 16:08:11 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[12-Apr-2024 16:08:44 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[12-Apr-2024 16:08:52 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[12-Apr-2024 16:11:29 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[12-Apr-2024 22:12:51 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[15-Apr-2024 14:10:58 Asia/Kolkata] Slim Application Error
+Type: PDOException
+Code: HY093
+Message: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+File: /home3/pickdata/public_html/travel_bunny/restful/src/Domain/Packages/PackagesRepository.php
+Line: 250
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/src/Domain/Packages/PackagesRepository.php(250): PDOStatement->execute()
+#1 /home3/pickdata/public_html/travel_bunny/restful/src/Domain/Packages/Packages.php(57): App\Domain\Packages\PackagesRepository->updatePackageDetails(Array)
+#2 /home3/pickdata/public_html/travel_bunny/restful/src/Action/Packages/UpdatePackageDetails.php(23): App\Domain\Packages\Packages->updatePackageDetails(Array)
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(43): App\Action\Packages\UpdatePackageDetails->__invoke(Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/Route.php(381): Slim\Handlers\Strategies\RequestResponse->__invoke(Array, Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Slim\Routing\Route->handle(Object(Slim\Psr7\Request))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/Route.php(341): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/RouteRunner.php(84): Slim\Routing\Route->run(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/BodyParsingMiddleware.php(66): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#10 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\BodyParsingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#11 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(60): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#12 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#13 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#14 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#15 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#16 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#17 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#18 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#19 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#20 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#21 {main}
+[15-Apr-2024 14:11:02 Asia/Kolkata] Slim Application Error
+Type: PDOException
+Code: HY093
+Message: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+File: /home3/pickdata/public_html/travel_bunny/restful/src/Domain/Packages/PackagesRepository.php
+Line: 250
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/src/Domain/Packages/PackagesRepository.php(250): PDOStatement->execute()
+#1 /home3/pickdata/public_html/travel_bunny/restful/src/Domain/Packages/Packages.php(57): App\Domain\Packages\PackagesRepository->updatePackageDetails(Array)
+#2 /home3/pickdata/public_html/travel_bunny/restful/src/Action/Packages/UpdatePackageDetails.php(23): App\Domain\Packages\Packages->updatePackageDetails(Array)
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(43): App\Action\Packages\UpdatePackageDetails->__invoke(Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/Route.php(381): Slim\Handlers\Strategies\RequestResponse->__invoke(Array, Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Slim\Routing\Route->handle(Object(Slim\Psr7\Request))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/Route.php(341): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/RouteRunner.php(84): Slim\Routing\Route->run(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/BodyParsingMiddleware.php(66): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#10 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\BodyParsingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#11 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(60): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#12 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#13 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#14 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#15 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#16 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#17 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#18 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#19 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#20 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#21 {main}
+[15-Apr-2024 14:13:06 Asia/Kolkata] Slim Application Error
+Type: PDOException
+Code: HY093
+Message: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+File: /home3/pickdata/public_html/travel_bunny/restful/src/Domain/Packages/PackagesRepository.php
+Line: 250
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/src/Domain/Packages/PackagesRepository.php(250): PDOStatement->execute()
+#1 /home3/pickdata/public_html/travel_bunny/restful/src/Domain/Packages/Packages.php(57): App\Domain\Packages\PackagesRepository->updatePackageDetails(Array)
+#2 /home3/pickdata/public_html/travel_bunny/restful/src/Action/Packages/UpdatePackageDetails.php(23): App\Domain\Packages\Packages->updatePackageDetails(Array)
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(43): App\Action\Packages\UpdatePackageDetails->__invoke(Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/Route.php(381): Slim\Handlers\Strategies\RequestResponse->__invoke(Array, Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Slim\Routing\Route->handle(Object(Slim\Psr7\Request))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/Route.php(341): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Routing/RouteRunner.php(84): Slim\Routing\Route->run(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/BodyParsingMiddleware.php(66): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#10 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\BodyParsingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#11 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(60): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#12 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#13 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#14 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#15 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#16 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#17 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#18 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#19 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#20 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#21 {main}
+[15-Apr-2024 14:44:57 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[15-Apr-2024 14:46:38 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[17-Feb-2025 11:11:49 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[17-Feb-2025 11:14:59 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[17-Feb-2025 12:37:37 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[17-Feb-2025 12:45:44 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[17-Feb-2025 12:45:56 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[17-Feb-2025 12:45:57 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[17-Feb-2025 14:07:21 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[17-Feb-2025 14:38:31 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}
+[17-Feb-2025 15:29:31 Asia/Kolkata] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php
+Line: 94
+Trace: #0 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/RoutingMiddleware.php(59): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(140): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#2 /home3/pickdata/public_html/travel_bunny/restful/vendor/selective/basepath/src/BasePathMiddleware.php(52): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Selective\BasePath\BasePathMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/Middleware/ErrorMiddleware.php(107): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(188): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#6 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/MiddlewareDispatcher.php(81): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#7 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#8 /home3/pickdata/public_html/travel_bunny/restful/vendor/slim/slim/Slim/App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#9 /home3/pickdata/public_html/travel_bunny/restful/public/index.php(7): Slim\App->run()
+#10 {main}

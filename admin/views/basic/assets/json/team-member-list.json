@@ -1,0 +1,99 @@
+[
+	{
+        "id": 1,
+        "bookmark": false,
+        "memberImg": "assets/images/users/avatar-1.jpg",
+        "memberName": "Marie Ward",
+        "position": "Project Manager",
+        "contactNo": "215-820-4037",
+        "email": "marieward@gmail.com",
+        "progress": "85%",
+        "projects": "874",
+        "overdue": "21",
+        "tasks": "1032"
+    },{
+        "id": 2,
+        "bookmark": true,
+        "memberImg": "assets/images/users/avatar-2.jpg",
+        "memberName": "Allyson Booker",
+        "position": "Lead Product Design",
+        "contactNo": "314-835-9287",
+        "email": "allysonbooker@gmail.com",
+        "progress": "38%",
+        "projects": "174",
+        "overdue": "15",
+        "tasks": "500"
+    },{
+        "id": 3,
+        "bookmark": false,
+        "memberImg": "assets/images/users/avatar-3.jpg",
+        "memberName": "Cristofer Leblanc",
+        "position": "Product Manager",
+        "contactNo": "330-850-7683",
+        "email": "cristoferleblanc@gmail.com",
+        "progress": "50%",
+        "projects": "285",
+        "overdue": "10",
+        "tasks": "132"
+    },{
+        "id": 4,
+        "bookmark": false,
+        "memberImg": "assets/images/users/avatar-4.jpg",
+        "memberName": "Jordan Villareal",
+        "position": "Software Engineer",
+        "contactNo": "276-646-2337",
+        "email": "jordanvillareal@gmail.com",
+        "progress": "65%",
+        "projects": "321",
+        "overdue": "20",
+        "tasks": "1002"
+    },{
+        "id": 5,
+        "bookmark": true,
+        "memberImg": "assets/images/users/avatar-5.jpg",
+        "memberName": "Damon Boxter",
+        "position": "UI/UX Designer",
+        "contactNo": "303-215-6114",
+        "email": "damonboxter@gmail.com",
+        "progress": "70%",
+        "projects": "526",
+        "overdue": "18",
+        "tasks": "632"
+    },{
+        "id": 6,
+        "bookmark": false,
+        "memberImg": "assets/images/users/avatar-6.jpg",
+        "memberName": "Bryant Diaz",
+        "position": "Engineering Manager",
+        "contactNo": "530-461-3338",
+        "email": "bryantdiaz@gmail.com",
+        "progress": "85%",
+        "projects": "302",
+        "overdue": "12",
+        "tasks": "712"
+    },{
+        "id": 7,
+        "bookmark": true,
+        "memberImg": "assets/images/users/avatar-8.jpg",
+        "memberName": "Patience harrington",
+        "position": "Account Executive",
+        "contactNo": "870-455-0378",
+        "email": "patienceharrington@gmail.com",
+        "progress": "87%",
+        "projects": "514",
+        "overdue": "21",
+        "tasks": "225"
+    },{
+        "id": 8,
+        "bookmark": false,
+        "memberImg": "assets/images/users/avatar-9.jpg",
+        "memberName": "Ross Jordan",
+        "position": "Web Designer",
+        "contactNo": "501-804-0411",
+        "email": "rossjordan@gmail.com",
+        "progress": "32%",
+        "projects": "874",
+        "overdue": "21",
+        "tasks": "1032"
+    }
+]
