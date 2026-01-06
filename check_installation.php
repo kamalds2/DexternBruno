@@ -105,7 +105,8 @@ if ($configExists) {
         ];
         
         // Try to get some info about the database
-        $stmt = $pdo->query("SELECT COUNT(*) as table_count FROM information_schema.tables WHERE table_schema = '" . DB_NAME . "'");
+        $stmt = $pdo->prepare("SELECT COUNT(*) as table_count FROM information_schema.tables WHERE table_schema = ?");
+        $stmt->execute([DB_NAME]);
         $result = $stmt->fetch(PDO::FETCH_ASSOC);
         $checks[] = [
             'status' => 'success',
