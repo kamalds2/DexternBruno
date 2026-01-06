@@ -2,6 +2,31 @@
 
 A PHP MVC web application for managing job postings and company information.
 
+## 📋 Quick Links
+
+- **[Can I Run This Code?](STATUS.md)** - YES! See project status and verification
+- **[Quick Start Guide](QUICKSTART.md)** - Get running in 5 minutes
+- **[Detailed Setup](SETUP.md)** - Complete installation instructions
+- **[Configuration Example](libs/config.example.php)** - Template for setup
+
+## 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/kamalds2/DexternBruno.git
+cd DexternBruno
+
+# Configure database credentials in libs/config.php
+
+# Start development server
+./run_dev_server.sh  # Linux/Mac
+run_dev_server.bat   # Windows
+```
+
+Visit: http://localhost:8000/
+
+**Need help?** See [QUICKSTART.md](QUICKSTART.md) for step-by-step instructions.
+
 ## System Requirements
 
 - **PHP**: Version 7.0 or higher (tested with PHP 8.3.6)
