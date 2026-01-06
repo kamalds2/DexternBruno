@@ -48,13 +48,27 @@ Or visit: http://localhost/DexternBruno/check_installation.php (if running on Ap
 
 ### 5. Start the Application
 
-**Option A: Using PHP Built-in Server (Quick Test)**
+**Option A: Using the Helper Scripts (Easiest)**
+
+On Linux/Mac:
+```bash
+./run_dev_server.sh
+```
+
+On Windows:
+```cmd
+run_dev_server.bat
+```
+
+Then visit: http://localhost:8000/
+
+**Option B: Using PHP Built-in Server Manually**
 ```bash
 php -S localhost:8000 -t .
 ```
 Then visit: http://localhost:8000/
 
-**Option B: Using Apache (Recommended)**
+**Option C: Using Apache (Recommended for Production)**
 - Copy the DexternBruno folder to your web root (`htdocs` or `/var/www/html`)
 - Visit: http://localhost/DexternBruno/
 
@@ -116,8 +130,11 @@ See SETUP.md for production deployment instructions.
 
 | Task | Command |
 |------|---------|
-| Start dev server | `php -S localhost:8000 -t .` |
+| Start dev server (Linux/Mac) | `./run_dev_server.sh` |
+| Start dev server (Windows) | `run_dev_server.bat` |
+| Start manually | `php -S localhost:8000 -t .` |
+| Check installation | `php check_installation.php > check_result.html` |
 | Check PHP version | `php --version` |
 | Check MySQL | `mysql --version` |
 | Test syntax | `php -l index.php` |
-| View error logs | `tail -f logs/*.log` |
+| View error logs | `tail -f logs/*.log` (Linux/Mac) |

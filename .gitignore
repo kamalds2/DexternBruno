@@ -1,0 +1,46 @@
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+check_result.html
+nohup.out
+
+# Dependencies (if using Composer)
+/vendor/
+composer.phar
+composer.lock
+
+# Database
+*.sql.gz
+*.sql.bak
+dump.sql
+
+# Upload directory contents (keep the folder structure)
+uploads/*
+!uploads/.gitkeep
+
+# Logs
+logs/*.log
+logs/*.txt
+admin/logs/*.log
+admin/logs/error_logs/*/*.txt
+
+# Configuration (optional - uncomment if you want to exclude sensitive config)
+# libs/config.php
+
+# System files
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.backup
+*.old
