@@ -21,13 +21,6 @@ Whether you're a developer looking for a quick-start PHP CMS, or need a flexible
 - MySQL / MariaDB
 - Apache with mod_rewrite (XAMPP on Windows is convenient)
 
-## Quick install (local)
-1. Clone or copy the repository into your web root (e.g., `C:\xampp\htdocs\DexternBruno`).
-2. Create a MySQL database and import any project SQL (if provided by the project owner).
-3. Update database and app config in `libs/config.php` (and check `restful/config/` if using the REST API).
-4. Start Apache and MySQL (e.g., via XAMPP Control Panel).
-5. Open in browser: `http://localhost/DexternBruno/` or `http://localhost/DexternBruno/public/` depending on your setup.
-
 ## Important paths
 - `admin/` — Admin panel and controllers for back-office features.
 - `controllers/` — Frontend controllers.
@@ -53,6 +46,5 @@ Whether you're a developer looking for a quick-start PHP CMS, or need a flexible
 - If you see blank pages, enable `display_errors` temporarily or check `logs/error_logs/` for PHP errors.
 - Ensure `libs/drivers/Database.php` matches your PHP MySQL extension (`Mysqli` vs `Mysql`).
 
-## License
-Specify your project's license here (e.g., MIT). If you don't have one yet, add a `LICENSE` file.
+
 
