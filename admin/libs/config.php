@@ -41,7 +41,7 @@ define("RESTAPYKEY","cde2df70369703fa8068f03fc15475cea516af26c3c7a68af61529f7235
 define("DB_SERVER", "localhost");
 define("DB_USERNAME", "root");
 define("DB_PASSWORD", "");
-define("DB_NAME", "pickdata_dextern_bruno");
+define("DB_NAME", "travels");
 define("DB_PORT", "3306");
 define("DB_DRIVER", "pdo");
 define("DB_PREFIX", "tbl_");

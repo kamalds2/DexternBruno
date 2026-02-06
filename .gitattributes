@@ -1,0 +1,20 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# PHP files
+*.php text diff=php
+
+# HTML files
+*.html text diff=html
+
+# CSS files
+*.css text diff=css
+
+# Set linguist language overrides for main files
+index.php linguist-language=PHP
+index.html linguist-language=HTML
+index.js linguist-language=JavaScript
+
+
+# Exclude vendor directory from language stats
+/vendor/* linguist-vendored
