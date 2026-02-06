@@ -11,9 +11,9 @@
 *.css text diff=css
 
 # Set linguist language overrides for main files
-index.php linguist-language=PHP
-index.html linguist-language=HTML
-index.js linguist-language=JavaScript
+.php linguist-language=PHP
+.html linguist-language=HTML
+.js linguist-language=JavaScript
 
 
 # Exclude vendor directory from language stats
