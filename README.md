@@ -46,10 +46,6 @@ Whether you're a developer looking for a quick-start PHP CMS, or need a flexible
 - The admin area is located under `admin/` (e.g., `http://localhost/DexternBruno/admin/`).
 - Controller files: `admin/controllers/` — look at `login.php`, `dashboard.php`, and `settings.php` for admin workflows.
 
-## Deployment / GitHub
-1. Commit the repo: `git add . && git commit -m "Add project files"`
-2. Create a remote and push: `git remote add origin <your-repo-url>` then `git push -u origin main`.
-
 ## Contributing
 - Follow existing code structure. Keep core changes minimal; add new modules under `modules/` and controllers under `controllers/`.
 
